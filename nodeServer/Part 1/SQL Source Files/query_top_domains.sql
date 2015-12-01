@@ -1,0 +1,3 @@
+SELECT Domain
+FROM MAJESTIC
+WHERE RefSubNets >= 100;

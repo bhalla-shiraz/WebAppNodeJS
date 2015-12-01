@@ -1,0 +1,4 @@
+npm install express
+npm install mustachex
+npm install oracledb
+npm install body-parser
